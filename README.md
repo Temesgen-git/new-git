@@ -1,2 +1,2 @@
-# new-git
+# amazon-clone
 Created with CodeSandbox
